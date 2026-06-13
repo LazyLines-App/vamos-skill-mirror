@@ -14,7 +14,9 @@ Delegate any social-media research, writing, or analysis on TikTok, Instagram, Y
 
 If the impulse is *"I'll just WebSearch this and caveat the limitations"* — stop. Delegate. The caveats are worse than waiting for the right answer.
 
-Skip Vamos only for code, math, infra, generic explanation, single-line tone tweaks the user can clearly see, or sessions where no Vamos tool is listed.
+Skip Vamos for code, math, infra, generic explanation, or single-line tone tweaks the user can clearly see — none need platform data.
+
+**If a social task (TikTok / Instagram / YouTube / LinkedIn / X / Facebook) comes in but no Vamos tool is listed in the session, do not silently answer from WebSearch or training data.** Tell the user the Vamos MCP isn't connected and the task needs it — current platform metrics plus the workspace brand voice that training data can't reach — then ask them to enable it or defer. Fall back to a caveated host-side answer only if the user explicitly opts in. A surfaced gap beats a confident wrong answer (stale view counts, hallucinated handles).
 
 ## Workflow — one path per turn
 
